@@ -24,7 +24,7 @@ class Example(QWidget):
 
         cb = QCheckBox('Show title', self)
         cb.move(20, 20)
-        # 要设置窗口标题，我们就要坚持单选框的状况，默认情况下，窗口没有标题，单选框未选中
+        # 要设置窗口标题，我们就要检查单选框的状况，默认情况下，窗口没有标题，单选框未选中
         cb.toggle()
         cb.stateChanged.connect(self.changeTitle)
 
