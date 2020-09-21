@@ -3,21 +3,21 @@ from PyQt5.Qt import *
 import sys
 
 
-# 1 创建一个应用程序对象
 app = QApplication(sys.argv)
-
-# 2 控件的操作
 
 # 2.1 创建控件
 windows = QWidget()
 
 # 2.2 设置控件
 windows.setWindowTitle("Qlabel的学习")
-windows.resize(600, 600)
+# windows.resize(200, 200)
 
 label=QLabel(windows)
-label.setText("xxx")
-label.move(200, 200)
+label.setText("这是一个文本！")
+label.adjustSize()
+label.setGeometry(QRect(328, 240, 329, 27*4));
+label.setWordWrap(True)
+# label.move(50, 50)
 
 # 2.3 展示控件
 windows.show()

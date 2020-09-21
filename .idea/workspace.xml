@@ -1,13 +1,452 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21445287-cdfb-4516-adaf-537cfbfa8947" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ex-paint/.idea/ex-paint.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex-paint/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex-paint/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex-paint/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex-paint/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="21445287-cdfb-4516-adaf-537cfbfa8947" name="Default Changelist" comment="update v2">
+      <change afterPath="$PROJECT_DIR$/PyQt5教程/MainWindowVerticalLayout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5教程/RunMainWindowBuddy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5教程/RunMainWindowFormLayout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5教程/RunMainWindowGrid2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5教程/RunMainWindowHorizontaLayout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5教程/RunMainWindowSingleSlot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5教程/RunMainWindowSizePolicyLayout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5教程/RunMainWindowSpaceLineLayout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5教程/RunMainWindowVHLayout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5教程/RunMainWindowVerticalLayout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5教程/first.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5图形界面开发/config.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5图形界面开发/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5图形界面开发/logic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5图形界面开发/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5图形界面开发/runlayout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/111.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/222.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/字体自适应大小.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pyqt5_code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pyqt5_code.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-PyQT5初体验.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-PyQT5初体验.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/.idea/pyqt5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/documents/01-初识PyQt5-01-PyQt5简介.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/documents/PyQt5视频课程源代码下载.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/documents/PyQt5视频课程源代码下载.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/SignalSlot/AutoSignalSlot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/SignalSlot/CustomSignal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/SignalSlot/DateDialog.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/SignalSlot/LambdaSlotArg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/SignalSlot/MultiSignal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/SignalSlot/MultiWindow1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/SignalSlot/MultiWindow2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/SignalSlot/NNSignal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/SignalSlot/NewDateDialog.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/SignalSlot/OverrideSlot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/SignalSlot/PartialSlotArg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/SignalSlot/SignalSlotDemo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/SignalSlot/ThreadUpdateUI.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/SignalSlot/WinSignal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/Test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/basic/First.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/basic/开发第一个基于PyQt5的桌面应用.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/basic/搭建PyQt5开发环境.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/calendar_time/DateTimeEdit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/calendar_time/MyCalendar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/containers/DockWidget.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/containers/MultiWindows.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/containers/QStackedWidget.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/containers/ScrollBar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/containers/TabWidget.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/CenterForm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/FirstMainWin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/IconForm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/QCheckBoxDemo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/QComboBoxDemo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/QLabelBuddy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/QLabelDemo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/QLineEditDemo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/QLineEditEchoMode.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/QLineEditMask.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/QLineEditValidator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/QPushButtonDemo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/QRadioButtonDemo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/QSliderDemo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/QSpinBoxDemo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/QTextEditDemo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/QuitApplication.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/ScreenGeometry.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/Tooltip.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Air Elemental.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Archer.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Banshee.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Basilisk.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Djinni.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Dragon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Earth Elemental.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Fire Elemental.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Game Board.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Goblin.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Golem.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Knight.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Logo.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Manticore.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Phoenix.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Power Point (Dark).ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Power Point (Light).ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Shapeshifter.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Sorceress.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Troll.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Unicorn.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Valkyrie.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Water Elemental.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Wizard.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/ajax-loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/close.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/doc.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/new.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/open.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/printer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/python.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/python.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/save.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/win.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/主窗口类型.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/屏幕坐标系.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinAbsoluteLayout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinAbsoluteLayout.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinBuddy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinBuddy.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinContainerLayout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinContainerLayout.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinFormLayout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinFormLayout.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinGridLayout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinGridLayout.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinHorizontalLayout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinHorizontalLayout.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinMaxMinSize.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinMenuToolbar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinMenuToolbar.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinSignalSlot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinSignalSlot.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinSizePolicy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinSizePolicy.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinSpacerLine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinSpacerLine.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinTabOrder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinTabOrder.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinVHLayout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinVHLayout.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinVerticalLayout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinVerticalLayout.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/RunMainWinAbsoluteLayout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/RunMainWinBuddy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/RunMainWinContainerLayout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/RunMainWinFormLayout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/RunMainWinGridLayout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/RunMainWinHorizontalLayout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/RunMainWinMenuToolbar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/RunMainWinSignalSlot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/RunMainWinSizePolicy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/RunMainWinSpacerLine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/RunMainWinTabOrder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/RunMainWinVHLayout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/RunMainWinVerticalLayout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/demo.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/在Qt Designer中设置信号与槽.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/将.ui文件转换为.py文件.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/尺寸策略.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/dialogs/QColorDialog.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/dialogs/QDialogDemo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/dialogs/QFileDialogDemo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/dialogs/QFontDialog.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/dialogs/QInputDialogDemo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/dialogs/QMessageBox.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/drapclip/ClipBoard.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/drapclip/DrapDrop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/drapclip/images/book.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/drapclip/images/book1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/drawing/DrawAll.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/drawing/DrawMultiLine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/drawing/DrawPoints.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/drawing/DrawText.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/drawing/FillRect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/drawing/images/book.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/drawing/images/book1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/ext/DataGrid.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/ext/DataGrid1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/ext/Graph.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/ext/MyDB.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/ext/db/database.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/ext/pyinstaller.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/ext/pyqtgraph_pyqt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/ext/pyqtgraph_pyqt.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/layout/AbsoluteLayout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/layout/Calc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/layout/Calc.spec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/layout/FormLayout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/layout/GridForm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/layout/HBoxLayout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/layout/HBoxLayoutAlign.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/layout/RightBottomButton.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/layout/Splitter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/layout/Stretch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/layout/Stretch1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/layout/VBoxLayout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/Menu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/StatusBar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/Toolbar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Air Elemental.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Archer.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Banshee.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Basilisk.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Djinni.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Dragon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Earth Elemental.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Fire Elemental.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Game Board.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Goblin.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Golem.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Knight.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Logo.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Manticore.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Phoenix.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Power Point (Dark).ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Power Point (Light).ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Shapeshifter.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Sorceress.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Troll.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Unicorn.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Valkyrie.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Water Elemental.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Wizard.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/ajax-loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/close.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/doc.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/new.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/open.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/printer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/python.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/python.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/save.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/win.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/multithread/AutoCloseWindow.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/multithread/Counter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/multithread/ShowTime.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/printer/PrintDialog.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/printer/PrintSupport.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/project/CallWeatherWin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/project/WeatherWin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/project/WeatherWin.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/project/getWeatherInfo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/BasicTreeWidget.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/CellFontAndColor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/CellImageSize.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/CellImageText.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/CellSize.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/CellTextAlignment.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/ColumnSort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/DataLocation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/ListView.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/ListWidget.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/ModifyTree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/PlaceControlInCell.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/Span.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/TableView.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/TableWidget.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/TableWidgetContextMenu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/TreeEvent.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/TreeView.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/images/IOS.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/images/bao0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/images/bao1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/images/bao10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/images/bao11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/images/bao12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/images/bao13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/images/bao14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/images/bao2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/images/bao3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/images/bao4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/images/bao5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/images/bao6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/images/bao7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/images/bao8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/images/bao9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/images/cartoon1.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/images/flower.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/images/hammer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/images/music.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/images/root.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/web/InnerHTML.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/web/LocalHTML.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/web/MySharedObject.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/web/PyFactorial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/web/PyQtCallJS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/web/WebEngineView.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/web/f.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/web/factorial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/web/qwebchannel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/web/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/web/tt.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/AbnormityWindow.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/AnimWindow.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/AnimationWindows.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/Background.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/Background1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/Background2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/BasicQSS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/CommonHelper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/DarkStyleSheet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/Drawing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/LabelButtonBackground.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/LoadQSS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/MoveWindow.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/OpacityWindow.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/COPYING" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/MANIFEST.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/PKGBUILD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/example/example_pyqt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/example/example_pyqt5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/example/example_pyqt5.spec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/example/example_pyside.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/example/ui/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/example/ui/compile_ui.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/example/ui/example.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/example/ui/example_pyqt5_ui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/example/ui/example_pyqt_ui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/example/ui/example_pyside_ui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/makeppa.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/compile_qrc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/pyqt5_style_rc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/pyqt_style_rc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/pyside_style_rc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/Hmovetoolbar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/Hsepartoolbar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/Vmovetoolbar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/Vsepartoolbar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/branch_closed-on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/branch_closed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/branch_open-on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/branch_open.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/checkbox_checked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/checkbox_checked_disabled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/checkbox_checked_focus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/checkbox_indeterminate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/checkbox_indeterminate_disabled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/checkbox_indeterminate_focus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/checkbox_unchecked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/checkbox_unchecked_disabled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/checkbox_unchecked_focus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/close-hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/close-pressed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/down_arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/down_arrow_disabled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/left_arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/left_arrow_disabled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/radio_checked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/radio_checked_disabled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/radio_checked_focus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/radio_unchecked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/radio_unchecked_disabled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/radio_unchecked_focus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/right_arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/right_arrow_disabled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/sizegrip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/stylesheet-branch-end.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/stylesheet-branch-more.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/stylesheet-vline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/transparent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/undock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/up_arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/up_arrow_disabled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/style.qrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/style.qss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/screenshots/01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/screenshots/QDarkStyle example 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/screenshots/QDarkStyle example 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/setup.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/setup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/stdeb.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/checkbox_checked.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/checkbox_checked_disabled.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/checkbox_checked_focus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/checkbox_indeterminate.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/checkbox_indeterminate_disabled.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/checkbox_indeterminate_focus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/checkbox_unchecked.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/checkbox_unchecked_disabled.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/checkbox_unchecked_focus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/radio_checked.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/radio_checked_disabled.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/radio_checked_focus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/radio_unchecked.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/radio_unchecked_disabled.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/radio_unchecked_focus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QSSSelector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QSSSubControl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/ScaleImage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/WindowMaxMin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/WindowPattern.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/WindowStyle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/gitanim.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/Cloudy_72px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/addhover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/boy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/cartoon1.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/cartoon2.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/cartoon3.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/cartoon4.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/dog.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/dog2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/down2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/down3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/dropdown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/left2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/left3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/leftHover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/leftPressed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/leftdown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/leftdown2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/leftdown3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/leftup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/leftup2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/leftup3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/mask.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/mask2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/python.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/right2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/right3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/rightdown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/rightdown2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/rightdown3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/rightup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/rightup2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/rightup3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/screen1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/screen2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/square_add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/up2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/up3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/style.qss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/屏幕快照 2018-12-09 上午10.19.22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/src/basic/搭建PyQt5开发环境.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pyqt5-master/src/basic/搭建PyQt5开发环境.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/src/designer/RunMainWinHorizontalLayout.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/RunMainWinHorizontalLayout.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,52 +457,110 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pyqt5图形界面开发/动态加载UI文件(PySide2).py">
+        <entry file="file://$PROJECT_DIR$/PyQt5教程/RunMainWindowHorizontaLayout.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+            <state relative-caret-position="336">
+              <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
               <folding>
-                <element signature="e#0#55#0" expanded="true" />
+                <element signature="e#0#10#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pyqt5图形界面开发/动态加载UI文件(PyQT5).py">
+        <entry file="file://$PROJECT_DIR$/PyQt5教程/RunMainWindowVHLayout.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+            <state relative-caret-position="432">
+              <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
               <folding>
-                <element signature="e#0#53#0" expanded="true" />
+                <element signature="e#0#10#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex-paint/ex-clock/main.py">
+        <entry file="file://$PROJECT_DIR$/PyQt5教程/RunMainWindowGrid2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+            <state relative-caret-position="456">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PyQt5教程/RunMainWindowFormLayout.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PyQt5教程/RunMainWindowSpaceLineLayout.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PyQt5教程/RunMainWindowSizePolicyLayout.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PyQt5教程/MainWindowBuddy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-144" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PyQt5教程/RunMainWindowBuddy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ex-paint/ex-clock/MainWidget.py">
+        <entry file="file://$PROJECT_DIR$/PyQt5教程/RunMainWindowSingleSlot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+            <state relative-caret-position="264">
+              <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
               <folding>
-                <element signature="e#48#118#0" expanded="true" />
+                <element signature="e#0#10#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex-paint/ex-clock/PaintBoard.py">
+        <entry file="file://$PROJECT_DIR$/PyQt5教程/RunMainWindowVerticalLayout.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -87,24 +584,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/oop.py" />
-        <option value="$PROJECT_DIR$/test/03菜单栏.py" />
-        <option value="$PROJECT_DIR$/test/04子菜单.py" />
-        <option value="$PROJECT_DIR$/test/05勾选菜单.py" />
-        <option value="$PROJECT_DIR$/test/继承结构.py" />
-        <option value="$PROJECT_DIR$/test/QObject.qss.py" />
-        <option value="$PROJECT_DIR$/test/QObject.qss" />
-        <option value="$PROJECT_DIR$/test/03-QObject.py" />
-        <option value="$PROJECT_DIR$/test/信号与槽.py" />
-        <option value="$PROJECT_DIR$/test/带窗口图标.py" />
-        <option value="$PROJECT_DIR$/test/提示框.py" />
-        <option value="$PROJECT_DIR$/test/关闭窗口.py" />
-        <option value="$PROJECT_DIR$/test/消息盒子.py" />
-        <option value="$PROJECT_DIR$/test/窗口居中.py" />
-        <option value="$PROJECT_DIR$/test/菜单和工具栏.py" />
-        <option value="$PROJECT_DIR$/test/状态栏.py" />
-        <option value="$PROJECT_DIR$/test/菜单栏.py" />
-        <option value="$PROJECT_DIR$/test/子菜单.py" />
         <option value="$PROJECT_DIR$/test/勾选菜单.py" />
         <option value="$PROJECT_DIR$/test/右键菜单.py" />
         <option value="$PROJECT_DIR$/test/工具栏.py" />
@@ -138,12 +617,30 @@
         <option value="$PROJECT_DIR$/pyqt5图形界面开发/动态加载UI文件.py" />
         <option value="$PROJECT_DIR$/pyqt5图形界面开发/动态加载UI文件(PyQT5).py" />
         <option value="$PROJECT_DIR$/pyqt5图形界面开发/动态加载UI文件(PySide2).py" />
+        <option value="$PROJECT_DIR$/pyqt5-master/src/basic/搭建PyQt5开发环境.txt" />
+        <option value="$PROJECT_DIR$/pyqt5-master/src/designer/RunMainWinHorizontalLayout.py" />
+        <option value="$PROJECT_DIR$/test/字体自适应大小.py" />
+        <option value="$PROJECT_DIR$/pyqt5图形界面开发/runlayout.py" />
+        <option value="$PROJECT_DIR$/test/111.py" />
+        <option value="$PROJECT_DIR$/01-PyQT5初体验.py" />
+        <option value="$PROJECT_DIR$/test/222.py" />
+        <option value="$PROJECT_DIR$/pyqt5图形界面开发/main.py" />
+        <option value="$PROJECT_DIR$/pyqt5图形界面开发/logic.py" />
+        <option value="$PROJECT_DIR$/PyQt5教程/first.py" />
+        <option value="$PROJECT_DIR$/PyQt5教程/RunMainWindowHorizontaLayout.py" />
+        <option value="$PROJECT_DIR$/PyQt5教程/RunMainWindowVHLayout.py" />
+        <option value="$PROJECT_DIR$/PyQt5教程/RunMainWindowGrid2.py" />
+        <option value="$PROJECT_DIR$/PyQt5教程/RunMainWindowFormLayout.py" />
+        <option value="$PROJECT_DIR$/PyQt5教程/RunMainWindowSpaceLineLayout.py" />
+        <option value="$PROJECT_DIR$/PyQt5教程/RunMainWindowSizePolicyLayout.py" />
+        <option value="$PROJECT_DIR$/PyQt5教程/RunMainWindowBuddy.py" />
+        <option value="$PROJECT_DIR$/PyQt5教程/RunMainWindowSingleSlot.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="79" />
-    <option name="y" value="145" />
+    <option name="x" value="-7" />
+    <option name="y" value="84" />
     <option name="width" value="1532" />
     <option name="height" value="854" />
   </component>
@@ -163,6 +660,11 @@
               <item name="pyqt5_code" type="b2602c69:ProjectViewProjectNode" />
               <item name="pyqt5_code" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="pyqt5_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyqt5_code" type="462c0819:PsiDirectoryNode" />
+              <item name="PyQt5教程" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -173,13 +675,14 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/python案例/PyqtExample" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/PyQt5教程" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pyqt5_code\PyQt5教程" />
       <recent name="D:\pyqt5_code\pyqt5图形界面开发" />
       <recent name="D:\pyqt5_code\test" />
     </key>
@@ -196,8 +699,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="统计薪水-面向对象" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.RunMainWindowSingleSlot">
+    <configuration name="RunMainWindowBuddy" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyqt5_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -205,12 +708,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyqt5图形界面开发" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyQt5教程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyqt5图形界面开发/统计薪水-面向对象.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyQt5教程/RunMainWindowBuddy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,7 +722,95 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="组件-图片" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="RunMainWindowFormLayout" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyqt5_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyQt5教程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyQt5教程/RunMainWindowFormLayout.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RunMainWindowSingleSlot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyqt5_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyQt5教程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyQt5教程/RunMainWindowSingleSlot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RunMainWindowSizePolicyLayout" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyqt5_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyQt5教程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyQt5教程/RunMainWindowSizePolicyLayout.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RunMainWindowSpaceLineLayout" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyqt5_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyQt5教程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyQt5教程/RunMainWindowSpaceLineLayout.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="简单的拖放" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyqt5_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -232,117 +823,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/组件-图片.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="选择字体" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pyqt5_code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/选择字体.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="动态加载UI文件" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pyqt5_code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyqt5图形界面开发" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\pyqt5_code\pyqt5图形界面开发\动态加载UI文件(PySide2).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="动态加载UI文件(PyQT5)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pyqt5_code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyqt5图形界面开发" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyqt5图形界面开发/动态加载UI文件(PyQT5).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="动态加载UI文件(PySide2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pyqt5_code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyqt5图形界面开发" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyqt5图形界面开发/动态加载UI文件(PySide2).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="关闭窗口" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pyqt5_code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/关闭窗口.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/简单的拖放.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -527,57 +1008,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="简单的拖放" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pyqt5_code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/简单的拖放.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pyqt5_code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex-paint/ex-clock" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex-paint/ex-clock/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.动态加载UI文件(PySide2)" />
-        <item itemvalue="Python.动态加载UI文件(PyQT5)" />
-        <item itemvalue="Python.动态加载UI文件" />
-        <item itemvalue="Python.统计薪水-面向对象" />
+        <item itemvalue="Python.RunMainWindowSingleSlot" />
+        <item itemvalue="Python.RunMainWindowBuddy" />
+        <item itemvalue="Python.RunMainWindowSizePolicyLayout" />
+        <item itemvalue="Python.RunMainWindowSpaceLineLayout" />
+        <item itemvalue="Python.RunMainWindowFormLayout" />
       </list>
     </recent_temporary>
   </component>
@@ -604,6 +1041,8 @@
       <workItem from="1600218862520" duration="15546000" />
       <workItem from="1600320812696" duration="2251000" />
       <workItem from="1600328906224" duration="1086000" />
+      <workItem from="1600336954806" duration="21902000" />
+      <workItem from="1600665036929" duration="10362000" />
     </task>
     <task id="LOCAL-00001" summary="update v1">
       <created>1598513849269</created>
@@ -647,22 +1086,29 @@
       <option name="project" value="LOCAL" />
       <updated>1600241854994</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update v2">
+      <created>1600337068762</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1600337068762</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="124598000" />
+    <option name="totallyTimeSpent" value="156862000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2228145" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22707888" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932066" weight="0.15184382" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932066" visible="true" weight="0.15184382" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -714,315 +1160,46 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pyqt5_code$DockWidget.coverage" NAME="DockWidget Coverage Results" MODIFIED="1598517936989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/containers" />
     <SUITE FILE_PATH="coverage/pyqt5_code$UI.coverage" NAME="动态加载UI文件 Coverage Results" MODIFIED="1600237102979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyqt5图形界面开发" />
+    <SUITE FILE_PATH="coverage/pyqt5_code$RunMainWindowVHLayout.coverage" NAME="RunMainWindowVHLayout Coverage Results" MODIFIED="1600670941860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQt5教程" />
+    <SUITE FILE_PATH="coverage/pyqt5_code$RunMainWindowGrid2.coverage" NAME="RunMainWindowGrid2 Coverage Results" MODIFIED="1600671312869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQt5教程" />
     <SUITE FILE_PATH="coverage/pyqt5_code$Config.coverage" NAME="Config Coverage Results" MODIFIED="1598527936143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/pyqt5_code$DateTimeEdit.coverage" NAME="DateTimeEdit Coverage Results" MODIFIED="1600220334007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyqt5-master/src/calendar_time" />
-    <SUITE FILE_PATH="coverage/pyqt5_code$first.coverage" NAME="first Coverage Results" MODIFIED="1600223131390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyqt5图形界面开发" />
+    <SUITE FILE_PATH="coverage/pyqt5_code$111.coverage" NAME="111 Coverage Results" MODIFIED="1600415536455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/pyqt5_code$first.coverage" NAME="first Coverage Results" MODIFIED="1600666532834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQt5教程" />
     <SUITE FILE_PATH="coverage/pyqt5_code$05.coverage" NAME="05勾选菜单 Coverage Results" MODIFIED="1598600640718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/pyqt5_code$Menu.coverage" NAME="Menu Coverage Results" MODIFIED="1598590313047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pyqt5_code$RunMainWindowSpaceLineLayout.coverage" NAME="RunMainWindowSpaceLineLayout Coverage Results" MODIFIED="1600673646631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQt5教程" />
+    <SUITE FILE_PATH="coverage/pyqt5_code$RunMainWindowSingleSlot.coverage" NAME="RunMainWindowSingleSlot Coverage Results" MODIFIED="1600685493239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQt5教程" />
     <SUITE FILE_PATH="coverage/pyqt5_code$First.coverage" NAME="First Coverage Results" MODIFIED="1600219790055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyqt5-master/src/basic" />
+    <SUITE FILE_PATH="coverage/pyqt5_code$Menu.coverage" NAME="Menu Coverage Results" MODIFIED="1600344192693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pyqt5_code$RunMainWindowFormLayout.coverage" NAME="RunMainWindowFormLayout Coverage Results" MODIFIED="1600672214203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQt5教程" />
     <SUITE FILE_PATH="coverage/pyqt5_code$MultiWindows.coverage" NAME="MultiWindows Coverage Results" MODIFIED="1598519172042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/containers" />
+    <SUITE FILE_PATH="coverage/pyqt5_code$RunMainWindowSizePolicyLayout.coverage" NAME="RunMainWindowSizePolicyLayout Coverage Results" MODIFIED="1600675611410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQt5教程" />
     <SUITE FILE_PATH="coverage/pyqt5_code$_.coverage" NAME="统计薪水-面向对象 Coverage Results" MODIFIED="1600234398106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyqt5图形界面开发" />
+    <SUITE FILE_PATH="coverage/pyqt5_code$RunMainWinHorizontalLayout.coverage" NAME="RunMainWinHorizontalLayout Coverage Results" MODIFIED="1600344043723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyqt5-master/src/designer" />
+    <SUITE FILE_PATH="coverage/pyqt5_code$RunMainWindowBuddy.coverage" NAME="RunMainWindowBuddy Coverage Results" MODIFIED="1600683664682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQt5教程" />
     <SUITE FILE_PATH="coverage/pyqt5_code$getIP.coverage" NAME="getIP Coverage Results" MODIFIED="1598526333255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/pyqt5_code$_QSplitter.coverage" NAME="控件-QSplitter Coverage Results" MODIFIED="1599198718483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/pyqt5_code$UI_PySide2_.coverage" NAME="动态加载UI文件(PySide2) Coverage Results" MODIFIED="1600238155682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyqt5图形界面开发" />
     <SUITE FILE_PATH="coverage/pyqt5_code$oop.coverage" NAME="oop Coverage Results" MODIFIED="1598593397798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pyqt5_code$222.coverage" NAME="222 Coverage Results" MODIFIED="1600425162436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/pyqt5_code$04.coverage" NAME="04子菜单 Coverage Results" MODIFIED="1598600138939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/pyqt5_code$03_QObject.coverage" NAME="03-QObject Coverage Results" MODIFIED="1598676245944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/pyqt5_code$01_PyQT5.coverage" NAME="01-PyQT5初体验 Coverage Results" MODIFIED="1598587321682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pyqt5_code$test.coverage" NAME="test Coverage Results" MODIFIED="1600415071002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pyqt5_code$01_PyQT5.coverage" NAME="01-PyQT5初体验 Coverage Results" MODIFIED="1600420294785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pyqt5_code$AutoSignalSlot.coverage" NAME="AutoSignalSlot Coverage Results" MODIFIED="1598519267904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/SignalSlot" />
     <SUITE FILE_PATH="coverage/pyqt5_code$UI_PyQT5_.coverage" NAME="动态加载UI文件(PyQT5) Coverage Results" MODIFIED="1600237743976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyqt5图形界面开发" />
-    <SUITE FILE_PATH="coverage/pyqt5_code$main.coverage" NAME="main Coverage Results" MODIFIED="1600328925290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex-paint/ex-clock" />
-    <SUITE FILE_PATH="coverage/pyqt5_code$run.coverage" NAME="run Coverage Results" MODIFIED="1598513926425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pyqt5_code$main.coverage" NAME="main Coverage Results" MODIFIED="1600502585030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyqt5图形界面开发" />
+    <SUITE FILE_PATH="coverage/pyqt5_code$run.coverage" NAME="run Coverage Results" MODIFIED="1600415064280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pyqt5_code$RunMainWindowHorizontaLayout.coverage" NAME="RunMainWindowHorizontaLayout Coverage Results" MODIFIED="1600670030208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQt5教程" />
     <SUITE FILE_PATH="coverage/pyqt5_code$2.coverage" NAME="信号与槽2 Coverage Results" MODIFIED="1599043650024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/pyqt5_code$runlayout.coverage" NAME="runlayout Coverage Results" MODIFIED="1600415817272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyqt5图形界面开发" />
     <SUITE FILE_PATH="coverage/pyqt5_code$03.coverage" NAME="03菜单栏 Coverage Results" MODIFIED="1598599700007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/pyqt5_code$.coverage" NAME="下拉选框 Coverage Results" MODIFIED="1600219784426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/pyqt5_code$.coverage" NAME="窗口居中 Coverage Results" MODIFIED="1600665066254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/pyqt5_code$DateDialog.coverage" NAME="DateDialog Coverage Results" MODIFIED="1598519432745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/SignalSlot" />
+    <SUITE FILE_PATH="coverage/pyqt5_code$MainWinHorizontalLayout.coverage" NAME="MainWinHorizontalLayout Coverage Results" MODIFIED="1600340599295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyqt5-master/src/designer" />
     <SUITE FILE_PATH="coverage/pyqt5_code$MyCalendar.coverage" NAME="MyCalendar Coverage Results" MODIFIED="1598517129253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/calendar_time" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/Getip.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="7" lean-forward="true" selection-start-line="2" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/信号与槽.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/03-QObject.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="61" column="21" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/继承结构.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/带窗口图标.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#113#123#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/提示框.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
-          <folding>
-            <element signature="e#108#118#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/关闭窗口.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#140#150#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-238803728/PyQt5/QtWidgets/QWidget.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="96" column="8" selection-start-line="96" selection-start-column="8" selection-end-line="96" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/消息盒子.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#158#168#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/状态栏.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
-          <folding>
-            <element signature="e#85#95#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/窗口居中.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="564">
-          <caret line="36" column="18" lean-forward="true" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
-          <folding>
-            <element signature="e#94#104#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/菜单栏.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
-          <folding>
-            <element signature="e#129#139#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/子菜单.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1008">
-          <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
-          <folding>
-            <element signature="e#83#93#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/勾选菜单.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="27" column="49" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
-          <folding>
-            <element signature="e#90#100#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/右键菜单.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-          <folding>
-            <element signature="e#88#98#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/工具栏.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/主窗口.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="936">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-          <folding>
-            <element signature="e#182#192#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/盒布局.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
-          <folding>
-            <element signature="e#152#162#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/栅格布局.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#136#146#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/制作提交反馈信息的布局.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="888">
-          <caret line="38" column="40" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
-          <folding>
-            <element signature="e#156#166#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/信号与槽2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="e#138#148#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/重构事件处理器.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="26" column="51" selection-start-line="26" selection-start-column="51" selection-end-line="26" selection-end-column="51" />
-          <folding>
-            <element signature="e#106#116#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/事件对象.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="40" column="64" selection-start-line="40" selection-start-column="64" selection-end-line="40" selection-end-column="64" />
-          <folding>
-            <element signature="e#151#161#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/信号发送.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="10" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/输入文字.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="744">
-          <caret line="32" column="44" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="47" />
-          <folding>
-            <element signature="e#160#170#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/选取颜色.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <element signature="e#219#229#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/选择字体.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1104">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
-          <folding>
-            <element signature="e#171#181#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/选择文件.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/控件-复选框.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
-          <folding>
-            <element signature="e#176#236#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/切换按钮.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
-          <folding>
-            <element signature="e#202#212#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/滑块.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/进度条.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1368">
@@ -1075,26 +1252,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pyqt5-master/src/basic/First.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" selection-start-line="12" selection-end-line="15" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pyqt5-master/src/basic/开发第一个基于PyQt5的桌面应用.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pyqt5-master/src/basic/搭建PyQt5开发环境.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pyqt5-master/src/calendar_time/DateTimeEdit.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="287">
@@ -1143,6 +1300,159 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ex-paint/ex-clock/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex-paint/ex-clock/PaintBoard.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex-paint/ex-clock/MainWidget.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          <folding>
+            <element signature="e#48#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyqt5-master/src/basic/搭建PyQt5开发环境.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyqt5-master/src/basic/开发第一个基于PyQt5的桌面应用.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyqt5-master/src/basic/First.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyqt5-master/src/designer/将.ui文件转换为.py文件.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyqt5图形界面开发/layoyt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/字体自适应大小.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-528">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Menu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyqt5-master/src/designer/RunMainWinHorizontalLayout.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyqt5-master/src/designer/MainWinHorizontalLayout.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" column="67" selection-start-line="21" selection-start-column="67" selection-end-line="21" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/111.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/222.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-PyQT5初体验.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#14#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyqt5图形界面开发/runlayout.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pyqt5图形界面开发/动态加载UI文件(PyQT5).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
@@ -1153,22 +1463,154 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex-paint/ex-clock/PaintBoard.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex-paint/ex-clock/main.py">
+    <entry file="file://$PROJECT_DIR$/pyqt5图形界面开发/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex-paint/ex-clock/MainWidget.py">
+    <entry file="file://$PROJECT_DIR$/pyqt5图形界面开发/config.ini">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        <state relative-caret-position="24">
+          <caret line="1" column="11" selection-start-line="1" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyqt5图形界面开发/traceData-single.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyqt5图形界面开发/logic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
           <folding>
-            <element signature="e#48#118#0" expanded="true" />
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyqt5图形界面开发/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/窗口居中.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding>
+            <element signature="e#94#104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5教程/first.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5教程/MainWindowHorizontaLayout.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5教程/RunMainWindowVerticalLayout.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5教程/RunMainWindowHorizontaLayout.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5教程/RunMainWindowVHLayout.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5教程/RunMainWindowGrid2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5教程/RunMainWindowFormLayout.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5教程/RunMainWindowSpaceLineLayout.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5教程/RunMainWindowSizePolicyLayout.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5教程/MainWindowBuddy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-144" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5教程/RunMainWindowBuddy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5教程/RunMainWindowSingleSlot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
