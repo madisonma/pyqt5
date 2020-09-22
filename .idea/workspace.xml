@@ -1,452 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21445287-cdfb-4516-adaf-537cfbfa8947" name="Default Changelist" comment="update v2">
-      <change afterPath="$PROJECT_DIR$/PyQt5教程/MainWindowVerticalLayout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQt5教程/RunMainWindowBuddy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQt5教程/RunMainWindowFormLayout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQt5教程/RunMainWindowGrid2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQt5教程/RunMainWindowHorizontaLayout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQt5教程/RunMainWindowSingleSlot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQt5教程/RunMainWindowSizePolicyLayout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQt5教程/RunMainWindowSpaceLineLayout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQt5教程/RunMainWindowVHLayout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQt5教程/RunMainWindowVerticalLayout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQt5教程/first.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5图形界面开发/config.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5图形界面开发/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5图形界面开发/logic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5图形界面开发/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5图形界面开发/runlayout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/111.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/222.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/字体自适应大小.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pyqt5_code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pyqt5_code.iml" afterDir="false" />
+    <list default="true" id="21445287-cdfb-4516-adaf-537cfbfa8947" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/PyQt5教程/RunMainWindowMenuBar.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-PyQT5初体验.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-PyQT5初体验.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/.idea/pyqt5.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/documents/01-初识PyQt5-01-PyQt5简介.pptx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/documents/PyQt5视频课程源代码下载.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/documents/PyQt5视频课程源代码下载.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/SignalSlot/AutoSignalSlot.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/SignalSlot/CustomSignal.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/SignalSlot/DateDialog.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/SignalSlot/LambdaSlotArg.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/SignalSlot/MultiSignal.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/SignalSlot/MultiWindow1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/SignalSlot/MultiWindow2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/SignalSlot/NNSignal.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/SignalSlot/NewDateDialog.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/SignalSlot/OverrideSlot.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/SignalSlot/PartialSlotArg.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/SignalSlot/SignalSlotDemo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/SignalSlot/ThreadUpdateUI.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/SignalSlot/WinSignal.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/Test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/basic/First.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/basic/开发第一个基于PyQt5的桌面应用.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/basic/搭建PyQt5开发环境.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/calendar_time/DateTimeEdit.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/calendar_time/MyCalendar.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/containers/DockWidget.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/containers/MultiWindows.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/containers/QStackedWidget.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/containers/ScrollBar.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/containers/TabWidget.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/CenterForm.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/FirstMainWin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/IconForm.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/QCheckBoxDemo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/QComboBoxDemo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/QLabelBuddy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/QLabelDemo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/QLineEditDemo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/QLineEditEchoMode.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/QLineEditMask.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/QLineEditValidator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/QPushButtonDemo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/QRadioButtonDemo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/QSliderDemo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/QSpinBoxDemo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/QTextEditDemo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/QuitApplication.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/ScreenGeometry.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/Tooltip.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Air Elemental.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Archer.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Banshee.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Basilisk.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Djinni.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Dragon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Earth Elemental.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Fire Elemental.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Game Board.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Goblin.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Golem.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Knight.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Logo.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Manticore.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Phoenix.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Power Point (Dark).ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Power Point (Light).ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Shapeshifter.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Sorceress.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Troll.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Unicorn.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Valkyrie.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Water Elemental.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/Wizard.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/ajax-loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/close.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/doc.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/new.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/open.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/printer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/python.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/python.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/save.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/screen.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/images/win.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/主窗口类型.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/controls/屏幕坐标系.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinAbsoluteLayout.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinAbsoluteLayout.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinBuddy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinBuddy.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinContainerLayout.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinContainerLayout.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinFormLayout.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinFormLayout.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinGridLayout.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinGridLayout.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinHorizontalLayout.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinHorizontalLayout.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinMaxMinSize.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinMenuToolbar.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinMenuToolbar.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinSignalSlot.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinSignalSlot.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinSizePolicy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinSizePolicy.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinSpacerLine.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinSpacerLine.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinTabOrder.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinTabOrder.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinVHLayout.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinVHLayout.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinVerticalLayout.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/MainWinVerticalLayout.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/RunMainWinAbsoluteLayout.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/RunMainWinBuddy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/RunMainWinContainerLayout.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/RunMainWinFormLayout.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/RunMainWinGridLayout.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/RunMainWinHorizontalLayout.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/RunMainWinMenuToolbar.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/RunMainWinSignalSlot.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/RunMainWinSizePolicy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/RunMainWinSpacerLine.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/RunMainWinTabOrder.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/RunMainWinVHLayout.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/RunMainWinVerticalLayout.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/demo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/demo.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/在Qt Designer中设置信号与槽.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/将.ui文件转换为.py文件.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/designer/尺寸策略.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/dialogs/QColorDialog.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/dialogs/QDialogDemo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/dialogs/QFileDialogDemo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/dialogs/QFontDialog.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/dialogs/QInputDialogDemo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/dialogs/QMessageBox.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/drapclip/ClipBoard.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/drapclip/DrapDrop.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/drapclip/images/book.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/drapclip/images/book1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/drawing/DrawAll.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/drawing/DrawMultiLine.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/drawing/DrawPoints.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/drawing/DrawText.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/drawing/FillRect.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/drawing/images/book.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/drawing/images/book1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/ext/DataGrid.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/ext/DataGrid1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/ext/Graph.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/ext/MyDB.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/ext/db/database.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/ext/pyinstaller.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/ext/pyqtgraph_pyqt.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/ext/pyqtgraph_pyqt.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/layout/AbsoluteLayout.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/layout/Calc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/layout/Calc.spec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/layout/FormLayout.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/layout/GridForm.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/layout/HBoxLayout.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/layout/HBoxLayoutAlign.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/layout/RightBottomButton.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/layout/Splitter.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/layout/Stretch.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/layout/Stretch1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/layout/VBoxLayout.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/Menu.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/StatusBar.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/Toolbar.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Air Elemental.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Archer.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Banshee.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Basilisk.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Djinni.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Dragon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Earth Elemental.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Fire Elemental.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Game Board.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Goblin.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Golem.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Knight.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Logo.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Manticore.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Phoenix.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Power Point (Dark).ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Power Point (Light).ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Shapeshifter.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Sorceress.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Troll.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Unicorn.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Valkyrie.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Water Elemental.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/Wizard.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/ajax-loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/close.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/doc.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/new.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/open.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/printer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/python.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/python.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/save.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/screen.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/menu_toolbar_statusbar/images/win.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/multithread/AutoCloseWindow.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/multithread/Counter.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/multithread/ShowTime.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/printer/PrintDialog.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/printer/PrintSupport.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/project/CallWeatherWin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/project/WeatherWin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/project/WeatherWin.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/project/getWeatherInfo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/BasicTreeWidget.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/CellFontAndColor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/CellImageSize.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/CellImageText.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/CellSize.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/CellTextAlignment.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/ColumnSort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/DataLocation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/ListView.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/ListWidget.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/ModifyTree.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/PlaceControlInCell.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/Span.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/TableView.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/TableWidget.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/TableWidgetContextMenu.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/TreeEvent.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/TreeView.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/images/IOS.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/images/bao0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/images/bao1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/images/bao10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/images/bao11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/images/bao12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/images/bao13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/images/bao14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/images/bao2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/images/bao3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/images/bao4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/images/bao5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/images/bao6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/images/bao7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/images/bao8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/images/bao9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/images/cartoon1.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/images/flower.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/images/hammer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/images/music.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/table_tree/images/root.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/web/InnerHTML.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/web/LocalHTML.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/web/MySharedObject.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/web/PyFactorial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/web/PyQtCallJS.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/web/WebEngineView.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/web/f.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/web/factorial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/web/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/web/qwebchannel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/web/test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/web/tt.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/AbnormityWindow.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/AnimWindow.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/AnimationWindows.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/Background.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/Background1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/Background2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/BasicQSS.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/CommonHelper.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/DarkStyleSheet.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/Drawing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/LabelButtonBackground.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/LoadQSS.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/MoveWindow.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/OpacityWindow.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/COPYING" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/MANIFEST.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/PKGBUILD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/example/example_pyqt.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/example/example_pyqt5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/example/example_pyqt5.spec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/example/example_pyside.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/example/ui/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/example/ui/compile_ui.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/example/ui/example.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/example/ui/example_pyqt5_ui.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/example/ui/example_pyqt_ui.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/example/ui/example_pyside_ui.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/makeppa.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/compile_qrc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/pyqt5_style_rc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/pyqt_style_rc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/pyside_style_rc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/Hmovetoolbar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/Hsepartoolbar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/Vmovetoolbar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/Vsepartoolbar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/branch_closed-on.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/branch_closed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/branch_open-on.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/branch_open.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/checkbox_checked.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/checkbox_checked_disabled.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/checkbox_checked_focus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/checkbox_indeterminate.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/checkbox_indeterminate_disabled.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/checkbox_indeterminate_focus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/checkbox_unchecked.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/checkbox_unchecked_disabled.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/checkbox_unchecked_focus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/close-hover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/close-pressed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/close.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/down_arrow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/down_arrow_disabled.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/left_arrow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/left_arrow_disabled.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/radio_checked.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/radio_checked_disabled.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/radio_checked_focus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/radio_unchecked.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/radio_unchecked_disabled.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/radio_unchecked_focus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/right_arrow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/right_arrow_disabled.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/sizegrip.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/stylesheet-branch-end.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/stylesheet-branch-more.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/stylesheet-vline.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/transparent.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/undock.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/up_arrow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/up_arrow_disabled.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/style.qrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/style.qss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/screenshots/01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/screenshots/QDarkStyle example 1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/screenshots/QDarkStyle example 2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/setup.cfg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/setup.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/stdeb.cfg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/checkbox_checked.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/checkbox_checked_disabled.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/checkbox_checked_focus.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/checkbox_indeterminate.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/checkbox_indeterminate_disabled.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/checkbox_indeterminate_focus.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/checkbox_unchecked.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/checkbox_unchecked_disabled.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/checkbox_unchecked_focus.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/radio_checked.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/radio_checked_disabled.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/radio_checked_focus.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/radio_unchecked.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/radio_unchecked_disabled.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/radio_unchecked_focus.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QSSSelector.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/QSSSubControl.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/ScaleImage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/WindowMaxMin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/WindowPattern.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/WindowStyle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/gitanim.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/Cloudy_72px.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/add.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/addhover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/boy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/cartoon1.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/cartoon2.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/cartoon3.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/cartoon4.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/dog.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/dog2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/down.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/down2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/down3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/dropdown.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/left.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/left2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/left3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/leftHover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/leftPressed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/leftdown.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/leftdown2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/leftdown3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/leftup.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/leftup2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/leftup3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/mask.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/mask2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/python.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/right2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/right3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/rightdown.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/rightdown2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/rightdown3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/rightup.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/rightup2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/rightup3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/screen1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/screen2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/square_add.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/up.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/up2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/images/up3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/style.qss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/windows/屏幕快照 2018-12-09 上午10.19.22.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/src/basic/搭建PyQt5开发环境.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pyqt5-master/src/basic/搭建PyQt5开发环境.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyqt5-master/src/designer/RunMainWinHorizontalLayout.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/RunMainWinHorizontalLayout.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -547,11 +104,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PyQt5教程/RunMainWindowSingleSlot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+            <state relative-caret-position="504">
+              <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -559,9 +116,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PyQt5教程/RunMainWindowVerticalLayout.py">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PyQt5教程/RunMainWindowMenuBar.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="624">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -584,7 +148,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/勾选菜单.py" />
         <option value="$PROJECT_DIR$/test/右键菜单.py" />
         <option value="$PROJECT_DIR$/test/工具栏.py" />
         <option value="$PROJECT_DIR$/test/主窗口.py" />
@@ -635,6 +198,7 @@
         <option value="$PROJECT_DIR$/PyQt5教程/RunMainWindowSizePolicyLayout.py" />
         <option value="$PROJECT_DIR$/PyQt5教程/RunMainWindowBuddy.py" />
         <option value="$PROJECT_DIR$/PyQt5教程/RunMainWindowSingleSlot.py" />
+        <option value="$PROJECT_DIR$/PyQt5教程/RunMainWindowMenuBar.py" />
       </list>
     </option>
   </component>
@@ -699,7 +263,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.RunMainWindowSingleSlot">
+  <component name="RunManager" selected="Python.RunMainWindowMenuBar">
     <configuration name="RunMainWindowBuddy" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyqt5_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -722,7 +286,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="RunMainWindowFormLayout" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="RunMainWindowMenuBar" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyqt5_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -735,7 +299,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyQt5教程/RunMainWindowFormLayout.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyQt5教程/RunMainWindowMenuBar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1010,11 +574,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.RunMainWindowMenuBar" />
         <item itemvalue="Python.RunMainWindowSingleSlot" />
         <item itemvalue="Python.RunMainWindowBuddy" />
         <item itemvalue="Python.RunMainWindowSizePolicyLayout" />
         <item itemvalue="Python.RunMainWindowSpaceLineLayout" />
-        <item itemvalue="Python.RunMainWindowFormLayout" />
       </list>
     </recent_temporary>
   </component>
@@ -1042,7 +606,7 @@
       <workItem from="1600320812696" duration="2251000" />
       <workItem from="1600328906224" duration="1086000" />
       <workItem from="1600336954806" duration="21902000" />
-      <workItem from="1600665036929" duration="10362000" />
+      <workItem from="1600665036929" duration="11734000" />
     </task>
     <task id="LOCAL-00001" summary="update v1">
       <created>1598513849269</created>
@@ -1093,11 +657,18 @@
       <option name="project" value="LOCAL" />
       <updated>1600337068762</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="PyQt5 工具介绍">
+      <created>1600686521532</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1600686521532</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="156862000" />
+    <option name="totallyTimeSpent" value="158234000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1155,7 +726,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update v1" />
     <MESSAGE value="update v2" />
-    <option name="LAST_COMMIT_MESSAGE" value="update v2" />
+    <MESSAGE value="PyQt5 工具介绍" />
+    <option name="LAST_COMMIT_MESSAGE" value="PyQt5 工具介绍" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PyQt5教程/RunMainWindowMenuBar.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pyqt5_code$DockWidget.coverage" NAME="DockWidget Coverage Results" MODIFIED="1598517936989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/containers" />
@@ -1178,6 +760,7 @@
     <SUITE FILE_PATH="coverage/pyqt5_code$RunMainWinHorizontalLayout.coverage" NAME="RunMainWinHorizontalLayout Coverage Results" MODIFIED="1600344043723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyqt5-master/src/designer" />
     <SUITE FILE_PATH="coverage/pyqt5_code$RunMainWindowBuddy.coverage" NAME="RunMainWindowBuddy Coverage Results" MODIFIED="1600683664682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQt5教程" />
     <SUITE FILE_PATH="coverage/pyqt5_code$getIP.coverage" NAME="getIP Coverage Results" MODIFIED="1598526333255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/pyqt5_code$RunMainWindowMenuBar.coverage" NAME="RunMainWindowMenuBar Coverage Results" MODIFIED="1600741505536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQt5教程" />
     <SUITE FILE_PATH="coverage/pyqt5_code$_QSplitter.coverage" NAME="控件-QSplitter Coverage Results" MODIFIED="1599198718483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/pyqt5_code$UI_PySide2_.coverage" NAME="动态加载UI文件(PySide2) Coverage Results" MODIFIED="1600238155682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyqt5图形界面开发" />
     <SUITE FILE_PATH="coverage/pyqt5_code$oop.coverage" NAME="oop Coverage Results" MODIFIED="1598593397798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -1200,13 +783,6 @@
     <SUITE FILE_PATH="coverage/pyqt5_code$MyCalendar.coverage" NAME="MyCalendar Coverage Results" MODIFIED="1598517129253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/calendar_time" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/进度条.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1368">
-          <caret line="59" column="37" selection-start-line="59" selection-start-column="12" selection-end-line="59" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/组件-图片.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
@@ -1607,8 +1183,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PyQt5教程/RunMainWindowSingleSlot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        <state relative-caret-position="504">
+          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5教程/RunMainWindowMenuBar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
