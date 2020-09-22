@@ -2,7 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21445287-cdfb-4516-adaf-537cfbfa8947" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PyQt5教程/RunMainWindowMenuBar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5教程/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5教程/CenterForm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5教程/FirstMainWin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5教程/MainWindowBuddy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5教程/MainWindowBuddy.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5教程/MainWindowFormLayout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5教程/MainWindowFormLayout.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5教程/MainWindowGrid2Layout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5教程/MainWindowGrid2Layout.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5教程/MainWindowGridLayout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5教程/MainWindowGridLayout.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5教程/MainWindowHorizontaLayout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5教程/MainWindowHorizontaLayout.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5教程/MainWindowMenuBar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5教程/MainWindowMenuBar.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5教程/MainWindowSingleSlot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5教程/MainWindowSingleSlot.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5教程/MainWindowSizePolicyLayout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5教程/MainWindowSizePolicyLayout.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5教程/MainWindowSpacLineLayout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5教程/MainWindowSpacLineLayout.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5教程/MainWindowVHLayout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5教程/MainWindowVHLayout.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5教程/MainWindowVerticalLayout.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5教程/QLabel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5教程/QuitApplication.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5教程/ScreenGeometry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5教程/ToolTip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5图形界面开发/SMT_Input.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5图形界面开发/layoyt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5图形界面开发/traceData-single.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5图形界面开发/traceData-single.ui" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,10 +45,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PyQt5教程/RunMainWindowHorizontaLayout.py">
+        <entry file="file://$PROJECT_DIR$/PyQt5教程/ScreenGeometry.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+            <state relative-caret-position="-64">
+              <caret line="9" column="58" lean-forward="true" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -26,10 +57,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PyQt5教程/RunMainWindowVHLayout.py">
+        <entry file="file://$PROJECT_DIR$/PyQt5教程/QuitApplication.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+            <state relative-caret-position="224">
+              <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -38,77 +69,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PyQt5教程/RunMainWindowGrid2.py">
+        <entry file="file://$PROJECT_DIR$/PyQt5教程/ToolTip.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PyQt5教程/RunMainWindowFormLayout.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PyQt5教程/RunMainWindowSpaceLineLayout.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PyQt5教程/RunMainWindowSizePolicyLayout.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PyQt5教程/MainWindowBuddy.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-144" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PyQt5教程/RunMainWindowBuddy.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PyQt5教程/RunMainWindowSingleSlot.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+            <state relative-caret-position="216">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -117,13 +81,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PyQt5教程/RunMainWindowMenuBar.py">
+        <entry file="file://$PROJECT_DIR$/PyQt5教程/QLabel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="192">
+              <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -148,12 +109,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/右键菜单.py" />
-        <option value="$PROJECT_DIR$/test/工具栏.py" />
-        <option value="$PROJECT_DIR$/test/主窗口.py" />
-        <option value="$PROJECT_DIR$/test/盒布局.py" />
-        <option value="$PROJECT_DIR$/test/栅格布局.py" />
-        <option value="$PROJECT_DIR$/test/制作提交反馈信息的布局.py" />
         <option value="$PROJECT_DIR$/test/信号与槽2.py" />
         <option value="$PROJECT_DIR$/test/重构事件处理器.py" />
         <option value="$PROJECT_DIR$/test/事件对象.py" />
@@ -199,6 +154,12 @@
         <option value="$PROJECT_DIR$/PyQt5教程/RunMainWindowBuddy.py" />
         <option value="$PROJECT_DIR$/PyQt5教程/RunMainWindowSingleSlot.py" />
         <option value="$PROJECT_DIR$/PyQt5教程/RunMainWindowMenuBar.py" />
+        <option value="$PROJECT_DIR$/PyQt5教程/FirstMainWin.py" />
+        <option value="$PROJECT_DIR$/PyQt5教程/CenterForm.py" />
+        <option value="$PROJECT_DIR$/PyQt5教程/QuitApplication.py" />
+        <option value="$PROJECT_DIR$/PyQt5教程/ScreenGeometry.py" />
+        <option value="$PROJECT_DIR$/PyQt5教程/ToolTip.py" />
+        <option value="$PROJECT_DIR$/PyQt5教程/QLabel.py" />
       </list>
     </option>
   </component>
@@ -263,8 +224,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.RunMainWindowMenuBar">
-    <configuration name="RunMainWindowBuddy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.ToolTip">
+    <configuration name="CenterForm" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyqt5_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -277,7 +238,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyQt5教程/RunMainWindowBuddy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyQt5教程/CenterForm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -286,7 +247,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="RunMainWindowMenuBar" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="FirstMainWin" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyqt5_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -299,7 +260,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyQt5教程/RunMainWindowMenuBar.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyQt5教程/FirstMainWin.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -308,7 +269,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="RunMainWindowSingleSlot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="QuitApplication" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyqt5_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -321,7 +282,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyQt5教程/RunMainWindowSingleSlot.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyQt5教程/QuitApplication.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -330,7 +291,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="RunMainWindowSizePolicyLayout" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ScreenGeometry" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyqt5_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -343,7 +304,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyQt5教程/RunMainWindowSizePolicyLayout.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyQt5教程/ScreenGeometry.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -352,7 +313,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="RunMainWindowSpaceLineLayout" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ToolTip" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyqt5_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -365,7 +326,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyQt5教程/RunMainWindowSpaceLineLayout.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyQt5教程/ToolTip.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -574,11 +535,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.RunMainWindowMenuBar" />
-        <item itemvalue="Python.RunMainWindowSingleSlot" />
-        <item itemvalue="Python.RunMainWindowBuddy" />
-        <item itemvalue="Python.RunMainWindowSizePolicyLayout" />
-        <item itemvalue="Python.RunMainWindowSpaceLineLayout" />
+        <item itemvalue="Python.ToolTip" />
+        <item itemvalue="Python.ScreenGeometry" />
+        <item itemvalue="Python.QuitApplication" />
+        <item itemvalue="Python.CenterForm" />
+        <item itemvalue="Python.FirstMainWin" />
       </list>
     </recent_temporary>
   </component>
@@ -606,7 +567,7 @@
       <workItem from="1600320812696" duration="2251000" />
       <workItem from="1600328906224" duration="1086000" />
       <workItem from="1600336954806" duration="21902000" />
-      <workItem from="1600665036929" duration="11734000" />
+      <workItem from="1600665036929" duration="19739000" />
     </task>
     <task id="LOCAL-00001" summary="update v1">
       <created>1598513849269</created>
@@ -664,11 +625,18 @@
       <option name="project" value="LOCAL" />
       <updated>1600686521532</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="PyQt5 工具介绍">
+      <created>1600741825843</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1600741825843</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="158234000" />
+    <option name="totallyTimeSpent" value="166239000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -679,7 +647,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932066" visible="true" weight="0.15184382" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932066" visible="true" weight="0.30694142" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -744,16 +712,20 @@
     <SUITE FILE_PATH="coverage/pyqt5_code$UI.coverage" NAME="动态加载UI文件 Coverage Results" MODIFIED="1600237102979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyqt5图形界面开发" />
     <SUITE FILE_PATH="coverage/pyqt5_code$RunMainWindowVHLayout.coverage" NAME="RunMainWindowVHLayout Coverage Results" MODIFIED="1600670941860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQt5教程" />
     <SUITE FILE_PATH="coverage/pyqt5_code$RunMainWindowGrid2.coverage" NAME="RunMainWindowGrid2 Coverage Results" MODIFIED="1600671312869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQt5教程" />
+    <SUITE FILE_PATH="coverage/pyqt5_code$QuitApplication.coverage" NAME="QuitApplication Coverage Results" MODIFIED="1600744542153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQt5教程" />
     <SUITE FILE_PATH="coverage/pyqt5_code$Config.coverage" NAME="Config Coverage Results" MODIFIED="1598527936143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/pyqt5_code$DateTimeEdit.coverage" NAME="DateTimeEdit Coverage Results" MODIFIED="1600220334007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyqt5-master/src/calendar_time" />
     <SUITE FILE_PATH="coverage/pyqt5_code$111.coverage" NAME="111 Coverage Results" MODIFIED="1600415536455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/pyqt5_code$first.coverage" NAME="first Coverage Results" MODIFIED="1600666532834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQt5教程" />
     <SUITE FILE_PATH="coverage/pyqt5_code$05.coverage" NAME="05勾选菜单 Coverage Results" MODIFIED="1598600640718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/pyqt5_code$ScreenGeometry.coverage" NAME="ScreenGeometry Coverage Results" MODIFIED="1600746438193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQt5教程" />
     <SUITE FILE_PATH="coverage/pyqt5_code$RunMainWindowSpaceLineLayout.coverage" NAME="RunMainWindowSpaceLineLayout Coverage Results" MODIFIED="1600673646631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQt5教程" />
+    <SUITE FILE_PATH="coverage/pyqt5_code$ToolTip.coverage" NAME="ToolTip Coverage Results" MODIFIED="1600750120662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQt5教程" />
     <SUITE FILE_PATH="coverage/pyqt5_code$RunMainWindowSingleSlot.coverage" NAME="RunMainWindowSingleSlot Coverage Results" MODIFIED="1600685493239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQt5教程" />
     <SUITE FILE_PATH="coverage/pyqt5_code$First.coverage" NAME="First Coverage Results" MODIFIED="1600219790055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyqt5-master/src/basic" />
     <SUITE FILE_PATH="coverage/pyqt5_code$Menu.coverage" NAME="Menu Coverage Results" MODIFIED="1600344192693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pyqt5_code$RunMainWindowFormLayout.coverage" NAME="RunMainWindowFormLayout Coverage Results" MODIFIED="1600672214203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQt5教程" />
+    <SUITE FILE_PATH="coverage/pyqt5_code$CenterForm.coverage" NAME="CenterForm Coverage Results" MODIFIED="1600743106330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQt5教程" />
     <SUITE FILE_PATH="coverage/pyqt5_code$MultiWindows.coverage" NAME="MultiWindows Coverage Results" MODIFIED="1598519172042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/containers" />
     <SUITE FILE_PATH="coverage/pyqt5_code$RunMainWindowSizePolicyLayout.coverage" NAME="RunMainWindowSizePolicyLayout Coverage Results" MODIFIED="1600675611410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQt5教程" />
     <SUITE FILE_PATH="coverage/pyqt5_code$_.coverage" NAME="统计薪水-面向对象 Coverage Results" MODIFIED="1600234398106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyqt5图形界面开发" />
@@ -768,6 +740,7 @@
     <SUITE FILE_PATH="coverage/pyqt5_code$04.coverage" NAME="04子菜单 Coverage Results" MODIFIED="1598600138939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/pyqt5_code$03_QObject.coverage" NAME="03-QObject Coverage Results" MODIFIED="1598676245944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/pyqt5_code$test.coverage" NAME="test Coverage Results" MODIFIED="1600415071002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pyqt5_code$FirstMainWin.coverage" NAME="FirstMainWin Coverage Results" MODIFIED="1600742263620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQt5教程" />
     <SUITE FILE_PATH="coverage/pyqt5_code$01_PyQT5.coverage" NAME="01-PyQT5初体验 Coverage Results" MODIFIED="1600420294785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pyqt5_code$AutoSignalSlot.coverage" NAME="AutoSignalSlot Coverage Results" MODIFIED="1598519267904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/SignalSlot" />
     <SUITE FILE_PATH="coverage/pyqt5_code$UI_PyQT5_.coverage" NAME="动态加载UI文件(PyQT5) Coverage Results" MODIFIED="1600237743976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyqt5图形界面开发" />
@@ -783,51 +756,6 @@
     <SUITE FILE_PATH="coverage/pyqt5_code$MyCalendar.coverage" NAME="MyCalendar Coverage Results" MODIFIED="1598517129253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyqt5-master/pyqt5-master/src/calendar_time" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/组件-图片.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="29" column="55" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/组件-行编辑.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/控件-QSplitter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/下拉选框.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="768">
-          <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/简单的拖放.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="49" column="51" selection-start-line="49" selection-start-column="51" selection-end-line="49" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/日历.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="34" column="54" selection-start-line="34" selection-start-column="54" selection-end-line="34" selection-end-column="54" />
-          <folding>
-            <element signature="e#145#155#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pyqt5-master/src/calendar_time/DateTimeEdit.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="287">
@@ -1103,9 +1031,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PyQt5教程/RunMainWindowVerticalLayout.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/PyQt5教程/RunMainWindowHorizontaLayout.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -1171,10 +1096,10 @@
         <state relative-caret-position="-144" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PyQt5教程/RunMainWindowBuddy.py">
+    <entry file="file://$PROJECT_DIR$/PyQt5教程/RunMainWindowMenuBar.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        <state relative-caret-position="624">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
@@ -1191,13 +1116,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PyQt5教程/RunMainWindowMenuBar.py">
+    <entry file="file://$PROJECT_DIR$/PyQt5教程/FirstMainWin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="264">
+          <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5教程/RunMainWindowBuddy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5教程/CenterForm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+          <folding>
+            <element signature="e#14#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5教程/ScreenGeometry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-64">
+          <caret line="9" column="58" lean-forward="true" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5教程/RunMainWindowVerticalLayout.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5教程/QuitApplication.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5教程/ToolTip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5教程/QLabel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
         </state>
       </provider>
     </entry>
