@@ -52,7 +52,7 @@ class QLabelDemo(QWidget):
         label3.setToolTip("这是一个图片标签")
         label3.setPixmap(QPixmap('1.png'))
 
-        label4.setOpenExternalLinks(True) #如果设置为True用浏览器打开网页，如果设置False调用槽函数
+        label4.setOpenExternalLinks(False) #如果设置为True用浏览器打开网页，如果设置False调用槽函数
         label4.setText("<a href='http://www.baidu.com'>百度一下</a>")
         label4.setAlignment(Qt.AlignRight)
         label4.setToolTip("这是一个链接")
