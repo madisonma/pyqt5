@@ -5,6 +5,7 @@
       <sourceFolder url="file://$MODULE_DIR$/pyqt5-master/src/designer" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/pyqt5图形界面开发" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/PyQt5教程" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

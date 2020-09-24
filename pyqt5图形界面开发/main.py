@@ -1,49 +1,44 @@
-from PyQt5.QtWidgets import QApplication, QMessageBox
+from PyQt5.QtWidgets import QApplication, QMessageBox, QMainWindow
 from PyQt5.QtCore import QFile
 from PyQt5 import uic
+from logic import logic
+from Trace import Ui_MainWindow
+from PyQt5.Qt import QIcon
+import config
+import sys
 
 
-class TraceData:
+class MainWindow(QMainWindow, Ui_MainWindow):
 
     def __init__(self):
 
         #从文件中加载UI定义
-        qfile = QFile("traceData-single.ui")
-        qfile.open(QFile.ReadOnly)
-        qfile.close()
+        #qfile = QFile("traceData-single.ui")
+        #qfile.open(QFile.ReadOnly)
+        #qfile.close()
+        #self.ui = uic.loadUi("Trace.ui")
         #从UI定义中动态创建一个相应的窗口对象
         #注意：里面的空间对象也成为窗口对象属性了
         #比如 self.ui.button, self.ui.textEdit
-
-        self.ui = uic.loadUi("traceData-single.ui")
+        super(MainWindow, self).__init__()
+        self.setupUi(self)
+        self.setWindowIcon(QIcon('logo.png'))
+        self.terminalIdValue.setText(config.get("trace", "terminal_id"))
+        self.terminalIdValue.setStyleSheet('''#terminalIdValue{color:blue;}''')
+        self.lineEdit.setFocus()
         # self.ui.btn.clicked.connect(self.handleCalc)
 
-    def handleCalc(self):
-        info = self.ui.TextEdit.toPlainText()
+        self.btn.clicked.connect(lambda: logic.btn_click(self))
+        self.lineEdit.returnPressed.connect(lambda: logic.enter(self))
 
-        # 薪资20000以上和以下的人员名单
-        salary_above_20k = ''
-        salary_below_20k = ''
 
-        for line in info.splitlines():
-            if not line.strip():
-                continue
-            parts = line.split(' ')
-            # 去掉列表中的空字符串内容
-            parts = [p for p in parts if p]
-            name, salary, age = parts
-            if int(salary) >= 20000:
-                salary_above_20k += name + '\n'
-            else:
-                salary_below_20k += name + '\n'
 
-        QMessageBox.about(self.ui,
-                      '统计结果',
-                      f'''薪资20000以上的有:\n{salary_above_20k}
-                      \n薪资20000以下的有：\n{salary_below_20k}'''
-                      )
-
-app = QApplication([])
-stats = TraceData()
-stats.ui.show()
-app.exec_()
+# 创建应用
+app = QApplication(sys.argv)
+# 创建一个窗口
+window = MainWindow()
+# 显示窗口
+window.show()
+#win.ui.show()
+# 循环输出
+sys.exit(app.exec_())

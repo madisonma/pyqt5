@@ -124,7 +124,7 @@
         </widget>
        </item>
        <item>
-        <widget class="QLineEdit" name="messageDisplay"/>
+        <widget class="QLineEdit" name="lineEdit"/>
        </item>
       </layout>
      </item>
